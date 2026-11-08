@@ -33,3 +33,9 @@ Chrono is designed to solve the customizability problem in Wayland screen locker
 ## Architecture & Roadmap
 
 For detailed architecture, component design, and project milestones, see the [Architecture and Implementation Plan](.plans/plan.md).
+
+---
+
+## Built With
+
+Chrono is designed, architected, and built using **Google Antigravity** and **Google Gemini**.
