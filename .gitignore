@@ -37,3 +37,8 @@ Thumbs.db
 .vscode/
 *.sublime-project
 *.sublime-workspace
+
+# Local memory and scratch files
+memory.md
+.memory.md
+.memory/
